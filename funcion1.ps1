@@ -3,7 +3,7 @@
 
 
 function mensaje(){
-    Write-Host "SISTEMA COMPROMETIDO"
+    Write-Host "FUNCION DESCARGADA SATISFACTORIAMENTE"
     }
 
 mensaje
